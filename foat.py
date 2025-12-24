@@ -1,4 +1,3 @@
-# 4-Answer-teller
 def str(xa):
     return xa
     
