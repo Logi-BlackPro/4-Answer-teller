@@ -7,4 +7,4 @@ And also I just tried it on online compiler Programiz. You can also copy this an
 Visit my github repositories for a few funny and simple projects like this.
 
 
-                                                                  Thank you for visiting my repo
+                                                           Thank you for visiting my repo
